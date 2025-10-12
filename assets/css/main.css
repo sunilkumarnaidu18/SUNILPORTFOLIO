@@ -687,7 +687,7 @@ section,
 }
 
 .hero .hero-actions .btn.btn-outline:hover {
-  background-color: var(--accent-color);
+  background-color: transparent#ff8000;
   color: var(--contrast-color);
   border-color: var(--accent-color);
 }
